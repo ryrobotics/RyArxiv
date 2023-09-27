@@ -1,7 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["SLAM", "Odometry", "Planning", "Optimization", "Estimation", "Control", "Swarm", "Detection", "Estimator", "Collision"];
-let titles_method = ["Certifiable", "Self-Supervised", "Semi-Supervised", "Unsupervised", "Fusion", "Navigation", "Detect", "Decision", "Calibration", "Reinforcement", "Relocalization", "loop", "global", "outlier",
-"localization", "dynamic", "sparsification", "graph", "clique"];
+let titles_model = ["SLAM", "Odometry", "Planning", "Optimization", "Estimation", "Control", "Swarm", "Detection", "Estimator", "Collision", "UAV", "MAV", "Drone"];
+let titles_method = ["Fusion", "Navigation", "Detect", "Decision", "Calibration", "Reinforcement", "Relocalization", "localization", "dynamic", "graph"];
 let titles =  titles_model + titles_method + titles_type;
 
 let authors_array = ["Shaojie Shen", "Luca Carlone", "Yoshua Bengio", "Frank Dellaert", "Wolfram Burgard", "Davide Scaramuzza", "Marc Pollefeys", "Andrew Davison", "Daniel Cremers", "Heng Yang", "Fei Gao", 
