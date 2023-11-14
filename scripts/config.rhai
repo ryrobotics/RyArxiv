@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["SLAM", "Odometry", "Planning", "Optimization", "Estimation", "Control", "Swarm", "Detection", "Estimator", "Collision", "UAV", "MAV", "Drone"];
+let titles_model = ["SLAM", "Odometry", "Planning", "Optimization", "Estimation", "Control", "Swarm", "Detection", "Estimator", "Collision", "UAV", "MAV", "Drone", "Aerial", "Tilt", "Rotor", "VTOL"];
 let titles_method = ["Fusion", "Navigation", "Detect", "Decision", "Calibration", "Reinforcement", "Relocalization", "localization", "dynamic", "graph"];
 let titles =  titles_model + titles_method + titles_type;
 
